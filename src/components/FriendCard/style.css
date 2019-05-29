@@ -1,0 +1,8 @@
+
+.img-thumbnail {
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  text-align: center;
+  background:#6CADDC;
+}

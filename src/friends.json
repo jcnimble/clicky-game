@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Wario",
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/81/Wario.png"
+    },
+  {
+    "id": 2,
+    "name": "Luigi",
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/f1/LuigiNSMBW.png"
+  },
+  {
+    "id": 3,
+    "name": "Bowser",
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/11/BowserNSMBUD.png"
+  },
+  {
+    "id": 4,
+    "name": "Yoshi",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d9/YoshiMarioParty10.png"
+    },
+  {
+    "id": 5,
+    "name": "Toad",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d1/Toad_3D_Land.png"
+    },
+  {
+    "id": 6,
+    "name": "Mario",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a9/MarioNSMBUDeluxe.png"
+  },
+  {
+    "id": 7,
+    "name": "Peach",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d5/Peach_%28Super_Mario_3D_World%29.png"
+   },
+  {
+    "id": 8,
+    "name": "Donkey Kong",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d4/Donkey_Kong_character.png"
+   },
+  {
+    "id": 9,
+    "name": "Daisy",
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/bd/Daisy_%28Super_Mario_Party%29.png"
+  },
+  {
+    "id": 10,
+    "name": "Bowser Jr.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d2/Bowser_Jr.png"
+  },
+  {
+    "id": 11,
+    "name": "Diddy Kong",
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/ba/DiddyReturns.png"
+  },
+  {
+    "id": 12,
+    "name": "Birdo",
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/f9/Birdo-MP9.png"
+  }
+]
